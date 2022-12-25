@@ -1,0 +1,33 @@
+.board-row {
+  display: table;
+  margin: auto;
+}
+
+.square {
+  width: 100px;
+  height: 100px;
+  border: 1px solid black;
+}
+
+.centerText {
+  text-align: center;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.board {
+  margin-top: 1rem;
+}
+
+h1 {
+  margin: 1rem;
+  color: white;
+}
+
+body {
+  background-color: black;
+}
